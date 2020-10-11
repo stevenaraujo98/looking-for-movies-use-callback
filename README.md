@@ -11,4 +11,4 @@ I'm using these powerful libraries
 * React Redux - https://github.com/reduxjs/react-redux 
 * React Router - https://github.com/ReactTraining/react-router
 * Axios - https://github.com/axios/axios
-[OMDb API](http://www.omdbapi.com/)
+* [OMDb API](http://www.omdbapi.com/)
